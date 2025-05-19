@@ -6,7 +6,7 @@ export function MaintenancePage() {
       <div className="max-w-2xl w-full bg-white rounded-2xl shadow-xl p-8 text-center">
         <div className="flex items-center justify-center mb-6">
           <img 
-            src="public/Pinasafe_logo1.png" 
+            src="/Pinasafe_logo1.png" 
             alt="PinaSafe Logo" 
             className="h-48 object-contain"
           />
