@@ -1,4 +1,4 @@
-import { Construction, ArrowRight } from 'lucide-react'
+import { Construction} from 'lucide-react'
 
 export function MaintenancePage() {
   return (
